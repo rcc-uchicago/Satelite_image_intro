@@ -10,12 +10,12 @@ Objectives: Students will be able to:
 3)	Find the raster products and extract processes from them
 4)	Perform basic operations and analysis using R 
 
-Date and Time: 
-Tue, October 22, 2019
-2:00 PM – 4:00 PM CDT <br/> 	
-Location: 
-John Crerar Library - Zar Room
-5730 South Ellis Avenue
-Chicago, IL 60637<br/>
-
 Prerequisites: The workshop will assume that participants have a basic level of familiarity with spatial data.
+
+What's included
+This git repository (the "workshop packet") includes:
++ README.md: This file.
++ Geospatial_Raster_RS.pdf: The slides for the workshop.
++ raster_intro.Rmd: R Markdown code for basic raster operations
+
+Credits: These materials were developed by Parmanand Sinha at the University of Chicago. 
