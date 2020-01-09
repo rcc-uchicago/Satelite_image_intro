@@ -18,4 +18,4 @@ This git repository (the "workshop packet") includes:
 + Geospatial_Raster_RS.pdf: The slides for the workshop.
 + raster_intro.Rmd: R Markdown code for basic raster operations
 
-Credits: These materials were developed by Parmanand Sinha at the University of Chicago. 
+Credits: These materials were developed by P. Sinha at the University of Chicago. 
