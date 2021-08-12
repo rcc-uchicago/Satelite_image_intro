@@ -296,3 +296,12 @@ head(zonal_grid)
  cellStats(PD, sum)
  cellStats(PD, sd)
 ```
+
+Additional Items
+```{r}
+#linking arcgis
+library(arcgisbinding)
+
+arc.check_product()
+
+```
