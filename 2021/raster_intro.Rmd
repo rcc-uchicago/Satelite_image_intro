@@ -1,5 +1,5 @@
 ---
-RCC 2019 workshop series
+RCC 2021 workshop series
 Title: Introduction to Raster data
 Instructor: Parmanand Sinha
 output: raster_notebook
